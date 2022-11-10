@@ -1,0 +1,4 @@
+1. $ git config --global user.email "kdev2817@gmail.com"
+2. $ git config --global user.name "itsdevkr"
+3. $ git init
+4. 
